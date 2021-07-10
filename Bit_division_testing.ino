@@ -24,7 +24,7 @@
  */
 
   // Define variables to be used
-  float vout = 0; //<= Voltage read on the analog pin
+  float vout = 0; //<= Voltage to be read on the analog pin
 
 void setup() {
   Serial.begin(9600);
